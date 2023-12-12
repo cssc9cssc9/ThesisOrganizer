@@ -1,0 +1,9 @@
+{
+    "sqlite3":
+    {
+        "paper_db":
+        {
+            "path":"./paper.sqlite3"
+        }
+    }
+}
